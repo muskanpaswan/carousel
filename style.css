@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+div{
+    width: 50%;
+}
+img{
+    width: 700px;
+    height: 500px;
+}
+button{
+     padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%; 
+    padding-bottom: 1%;
+    border-radius: 10px;
+    background-color: rgb(94, 37, 227);
+    color: white;
+}
